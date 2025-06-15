@@ -48,16 +48,14 @@ with st.sidebar:
     st.info("""
     Aplikasi ini mengklasifikasikan jenis kendaraan berdasarkan gambar yang diunggah. Jenis kendaraan yang didukung:
     - Bus
-    - Sedan Keluarga
-    - Mobil Pemadam Kebakaran
-    - Truk Berat
-    - Pikap
-    - Van
-    - Jeep
-    - Truk
-    - Taksi
     - SUV
-    - Mobil Balap
+    - Family Sedan
+    - Fire Engine
+    - Heavy Truck
+    - Jeep
+    - Truck
+    - Taxi
+    - Racing Car
     - Minibus
     """)
 
